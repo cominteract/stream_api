@@ -14,7 +14,7 @@
     "Backend",
     "Sample"
   ],
-  "author": "Ahmad Tahani",
+  "author": "Andre Insigne",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.15.0",
